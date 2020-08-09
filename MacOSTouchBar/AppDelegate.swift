@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MacOSTouchBar
 //
-//  Created by 久松由幸 on 2020/08/09.
-//  Copyright © 2020 久松由幸. All rights reserved.
+//  Created by YoshiyukiHisamatsu on 2020/08/09.
+//  Copyright © 2020 YoshiyukiHisamatsu. All rights reserved.
 //
 
 import Cocoa
@@ -19,7 +19,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Create the SwiftUI view that provides the window contents.
         let contentView = ContentView()
 
-        // Create the window and set the content view. 
+        // Create the window and set the content view.
         window = NSWindow(
             contentRect: NSRect(x: 0, y: 0, width: 480, height: 300),
             styleMask: [.titled, .closable, .miniaturizable, .resizable, .fullSizeContentView],

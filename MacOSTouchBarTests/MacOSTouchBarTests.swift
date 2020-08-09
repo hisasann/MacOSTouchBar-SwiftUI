@@ -2,8 +2,8 @@
 //  MacOSTouchBarTests.swift
 //  MacOSTouchBarTests
 //
-//  Created by 久松由幸 on 2020/08/09.
-//  Copyright © 2020 久松由幸. All rights reserved.
+//  Created by YoshiyukiHisamatsu on 2020/08/09.
+//  Copyright © 2020 YoshiyukiHisamatsu. All rights reserved.
 //
 
 import XCTest
